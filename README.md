@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-            this.click = function(delegate){
-                if (!delegate){
-                    _windowContainer.find('.header_button').click();
-                }else{
-                    _windowContainer.find('.header_button').unbind().click(delegate);
+           
