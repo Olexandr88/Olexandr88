@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+![image](https://user-images.githubusercontent.com/93856062/211005509-da7ec497-9e93-4c7a-93c5-ab0d29af31a4.png)
+
            
