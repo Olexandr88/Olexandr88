@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/93856062/212897938-3169d491-4ec9-4aea-8f59-df466e7e8d5a.png)
 
+docker compose up --build
+
 
 
 
